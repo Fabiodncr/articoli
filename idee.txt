@@ -1,0 +1,3 @@
+distribuzione binomiale con sliders per n e p, valore atteso, cose varie
+
+teorema limite centrale
