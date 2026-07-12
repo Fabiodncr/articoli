@@ -91,7 +91,6 @@ export default defineConfig(({ command }) => {
       }
     },
   
-
     vue: {
       template: {
         compilerOptions: {
@@ -99,16 +98,15 @@ export default defineConfig(({ command }) => {
         }
       }
     },
-
     
-
-
-    socialLinks: [
-      { icon: 'github', link: 'https://github.com' },
-      { icon: 'linkedin', link: 'https://linkedin.com' }
-    ]
-  
+    themeConfig: {
+      socialLinks: [
+        { icon: 'github', link: 'https://github.com' },
+        { icon: 'linkedin', link: 'https://linkedin.com' }
+      ]
+    } 
   }
+
   head: [
     ['link', { rel: 'stylesheet', href: 'https://cdn.jsdelivr.net/npm/katex@0.16.8/dist/katex.min.css' }]
   ]
