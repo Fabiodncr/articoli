@@ -1,6 +1,5 @@
 ---
 layout: doc
-title: Fabio Di Nocera, Ph.D.
 ---
 
 # Fabio Di Nocera
