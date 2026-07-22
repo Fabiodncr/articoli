@@ -8,7 +8,7 @@ export default defineConfig(({ command }) => {
 
   return {
     // Se stiamo compilando usiamo il path di GitHub, altrimenti la radice
-    base: isBuild ? '/articoli/' : '/', 
+    base: isBuild ? '/webpage/' : '/', 
     
     title: "Fabio Di Nocera",
     description: "Ricercatore in Fisica",
