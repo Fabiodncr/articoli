@@ -1,6 +1,17 @@
 :root {
-  --vp-c-brand-1: #2db128a7;
-  --vp-c-brand-2: #1982326e;
-  --vp-c-brand-3: #2a904c9b;
+  --vp-c-brand-1: #6366f1; 
+  --vp-c-brand-2: #4f46e5;  
+  --vp-c-brand-3: #4338ca;  
   --vp-font-family-base: 'Georgia', serif;
+
+  --vp-c-bg: #ffffff;
+  --vp-sidebar-bg-color: #f0f9f0;
+}
+.dark {
+  --vp-c-brand-1: #873333; 
+  --vp-c-brand-2: #824444;  
+  --vp-c-brand-3: #825555;  
+  --vp-c-bg: #021502;
+  --vp-sidebar-bg-color: #021902;
+  --vp-c-text-1: #e0e0e0;
 }
