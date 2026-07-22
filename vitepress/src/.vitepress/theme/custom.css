@@ -4,7 +4,7 @@
   --vp-c-brand-3: #4338ca;  
   --vp-font-family-base: 'Georgia', serif;
 
-  --vp-c-bg: #ffffff;
+  --vp-c-bg: #eeeeee;
   --vp-sidebar-bg-color: #f0f9f0;
 }
 .dark {
@@ -14,4 +14,10 @@
   --vp-c-bg: #021502;
   --vp-sidebar-bg-color: #021902;
   --vp-c-text-1: #e0e0e0;
+}
+
+.foto-piccola {
+  width: 400px;
+  max-width: 100%;  /* per non rompere il layout su schermi piccoli */
+  height: auto;
 }

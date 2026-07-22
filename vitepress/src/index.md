@@ -1,11 +1,12 @@
 ---
 layout: doc
+title: Fabio Di Nocera, Ph.D.
 ---
 
-# Dr. Fabio Di Nocera
+# Fabio Di Nocera
 *Docente di Matematica e Fisica*
 
-![Foto Profilo](https://images.unsplash.com/photo-1507679799987-c73779587ccf?w=300) <!-- Sostituire con foto reale in docs/public/ -->
+<img src="/immagini/me3.jpg" alt="Foto profilo" class="foto-piccola">
 
 Ciao, 
 
